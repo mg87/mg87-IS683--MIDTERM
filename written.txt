@@ -1,0 +1,33 @@
+IS 683 Mid-Term Exam . Job Interview
+
+You can submit your answers to these questions in an email to me OR for extra credit of 10% answer these questions in a file along with your programing assignment and submit the answers using GITHub, when you submit the programming portion.   Each of these questions is worth 2.5 points for a total of 50 points.  Your programming test is worth 5 Point per part for a total of 50 points.  The entire exam is worth 100 points.
+
+Job Description
+
+Company XYZ is hiring an entry level PHP programmer to maintain and develop custom applications in PHP.   You will expected to be able to write object oriented PHP code, SQL queries, HTML, CSS, and Javascript/Jquery.  
+
+Applicants should be able to work in teams and should have experience using a version control system.   The ideal candidate should be familiar with new technologies like MongoDB/NoSQL databases, software design patterns, KISS, and DRY principles of software development.  Applicants should also have experience using the LINUX/UNIX command line.
+
+We are hiring an entry
+
+1.	What does the acronym KISS mean and how does following this make you a better computer programmer?
+2.	What does the acronym DRY mean and why is it an essential principle of being a good computer programmer?
+3.	What is the difference between a database like MongoDB and MySQL? On the fly creates a database. 
+4.	If you were asked to write a program that could write at least 50 different HTML tags how would you do it? I would create a function that can write html tags and place the content of the tag inside a variable, thereby reusing it for the other tag contents. 
+5.	What software design pattern would you be demonstrating in in the above solution?
+6.	What version control system(s) have you used? Github
+7.	What is GitHub and have you ever used it?  Version control system way to track work done on the program, being able to work remote without changing the master.
+8.	What is the command to create a GIT repository? Git init 
+9.	What is the command to tell GIT to start tracking the file? Git add
+10.	What is the command to commit your changes to the GIT log?Git commit
+11.	What is the command to add a remote repository?Git push
+12.	What is the command to send your committed changes to the remote repository?
+13.	What is your experience working in a software development team?none
+14.	How would you create a new file and directory in linux? Vi filename, mkdir dir name
+15.	How would you set the permissions on a file / folder, so that another user can write to it.   i.e. so you the webserver can upload a file to the directory.
+16.	What program do you use to write your PHP code? Notepad++
+17.	What is a constructor in PHP and how/why would you use it? To create new object from the class
+18.	What is the difference between a class and an object? Class is blueprint of object, objrct is instantiation of a class.
+19.	Why is it important to comment / document your code? So others can understand where you are doing your work when they need to change or add on to your code.
+20.	What traits do you think a good computer programmer has? Generic, puts into classes , uses over code again only needs to change data in classes as opposed to all across program. 
+
